@@ -1,0 +1,9 @@
+name: Size
+main: MulkiAqi192\Size\Main
+authpr: MulkiAqi192
+api: 3.0.0
+version: 1.0
+
+commands:
+  size:
+    description: "Change your size in the server"

@@ -1,0 +1,16 @@
+# Plugin Created by BabosApple in 8/21/20 Size Plugin For PocketMine-MP
+# Size Plugin Configuration
+
+form-api-usage: "false"
+# Set true / false to enable and disable FormAPI
+
+max-size: "true"
+# Set true / false to enable and disable Max size
+
+max-size-number: "5"
+# If max size is disable, you can leave it without editing it
+
+config-version: "1.0"
+# Do not edit this setting, this is only for tracker that your config is not outdated!
+
+# For Plugin update, i will announce it on my discord server! make sure to join :D
